@@ -1,0 +1,11 @@
+numpy<2
+pandas
+scipy
+scikit-learn
+joblib
+matplotlib
+jupyter
+ipykernel
+pyxdf
+pylsl
+pygame
